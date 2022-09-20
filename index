@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin Recipes</title>
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
+  <body>
+    <h1>Flavors of the World</h1>
+    <p>Here at the Flavors of the World, we are not shy to express our love of the exotic over the mandane.  
+    The exciting from the boring, the different from the plain.  We are on a mission to introduce you the distant taste 
+    from the world over, to your cup.  The simple yet picturesque aromas to transport you to such locales as Ireland, 
+    Morrocco, and Mexico.  
+    </p>
+    <img src="pix/different_coffees_on_table.jpg">
+    <h3>Now say fare thee well, ordinary cup 'o joe!</h3>
+    
+    <p></p>    
+     
+		<h4>Try one of these to start your mornings!</h4>
+		<p></p>
+		<ul>			
+			<li><a href="morroccan_coffee.html">Morroccan Coffee</a></li>
+			<li><a href="mexican_coffee.html">Mexican Coffee</a></li>
+      <li><a href="irish_coffee.html">Irish Coffee</a></li>
+		</ul>
+
+
+
+  
+  </body>
+</html>

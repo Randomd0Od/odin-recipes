@@ -1,0 +1,45 @@
+/* This is going to incorporate all four pages (index, irish, morrocan and mexican) into one style sheet.  
+All four willl have similarities to them, but also...hopefully be somewhat different.  This section will also contain notes, reminders, etc.,
+of what I'm doing and my aim is
+
+Oh, and I guess remind me to to 'commit'
+*/
+
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight:bold;
+  font-size: 3rem;
+  text-align: center;
+}
+
+body {  
+  margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 120px;
+  margin-left: 120px;
+  text-align: center; 
+  font-family:Verdana, 'Geneva', Tahoma, sans-serif;
+  font-size:20px;
+  background-color:blanchedalmond;  
+  padding: 1vh;  
+}
+
+img {
+  height: auto;
+  width: 750px;
+  margin: auto;
+  display: block;
+}
+
+div {
+  text-align: left;
+  margin: auto;
+  width: 80%;
+}
+
+ul li, ol li {
+  text-align: left;
+  margin: auto;
+ 
+}
+
